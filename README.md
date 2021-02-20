@@ -1,5 +1,3 @@
-# kulina-test
-
 These are my solutions for the backend developer preliminary test at [Kulina](https://www.kulina.id).
 
 Please see [SOLUTIONS.md](SOLUTIONS.md).
